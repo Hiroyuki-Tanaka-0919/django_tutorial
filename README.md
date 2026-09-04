@@ -11,7 +11,7 @@
 
 ## ダウンロード
 ```
-> https://github.com/Hiroyuki-Tanaka-0919/django_tutorial.git
+> git clone https://github.com/Hiroyuki-Tanaka-0919/django_tutorial.git
 > cd django_tutorial
 ```
 ## 仮想環境の設定と有効化
@@ -46,3 +46,4 @@ http://127.0.0.1:8000
 
 ## 進捗
 - 2026/09/03：環境構築と初期設定
+- 2026/09/04：はじめての Django アプリ作成、その 1
